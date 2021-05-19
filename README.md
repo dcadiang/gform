@@ -84,9 +84,9 @@ And bind "nil" to a message is allowed.
 1. Make sure you have a working Go installation and build environment, see more for details from below page.
    http://golang.org/doc/install
    
-2. go get github.com/AllenDang/gform
+2. go get github.com/dcadiang/gform
 
-3. go install github.com/AllenDang/gform
+3. go install github.com/dcadiang/gform
 
 Have fun now!
 
